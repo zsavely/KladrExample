@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Кладр</string>
+
+    <string name="city">Город:</string>
+    <string name="street">Улица:</string>
+    <string name="building">Дом:</string>
+
+    <string name="action_menu_clearall">Очистить все поля</string>
+</resources>

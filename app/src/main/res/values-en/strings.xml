@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kladr</string>
+
+    <string name="city">City:</string>
+    <string name="street">Street:</string>
+    <string name="building">Building:</string>
+
+    <string name="action_menu_clearall">Clear all fields</string>
+</resources>
