@@ -53,7 +53,7 @@ public class ServerUtils {
     private final static ExecutorService executor = Executors.newSingleThreadExecutor();
 
     /**
-     * Query the DaData for current query.
+     * Query Kladr for current query.
      *
      * @param query       your query to process.
      * @param contentType the type of query
