@@ -190,14 +190,14 @@ public class ServerUtils {
     }
 
     /**
-     * Cache the DaData answer to Realm.
+     * Cache Kladr answer to Realm.
      *
      * @param queryFromUser               trimmed user query.
      * @param realm                       instance of Realm.
      * @param suggestions                 list of suggestions to be filled.
      * @param contentType                 type of content (city, street, building, etc.)
      * @param id                          object id, if present.
-     * @param kladrServerSuggestionAnswer an object that corresponds the answer from DaData.
+     * @param kladrServerSuggestionAnswer an object that corresponds the answer from Kladr.
      */
     private static void cacheUserQueryWithServerResult(String queryFromUser,
                                                        Realm realm,
